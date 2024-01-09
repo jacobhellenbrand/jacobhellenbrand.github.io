@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jacob Hellenbrand's Personal Site"
+title: ""
 excerpt: "Jacob Hellenbrand"
 author_profile: true
 redirect_from: 
