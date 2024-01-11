@@ -23,11 +23,11 @@ Work experience
 
 * Reynolds Transfer & Storage
   * Crew Lead, On Site Trainer
-    * Duties included: Managing crew members, Training in safety and efficiency, Communicatating with customers and office personel. 
+  * Duties included: Managing crew members, Training in safety and efficiency, Communicatating with customers and office personel. 
 
 * WP Beverages
   * Product Merchandiser
-    * Duties included: Managing inventory, Merchandising Planning, Quality Control of Pepsi products, Adaptability to retail envirionment.  
+  * Duties included: Managing inventory, Merchandising Planning, Quality Control of Pepsi products, Adaptability to retail envirionment.  
   
 Skills
 ======
