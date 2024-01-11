@@ -4,16 +4,16 @@ main:
   #   url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/  
+    
+  - title: "Projects"
+  url: /projects/
 
   - title: "Activities"
     url: /activities/    
     
   - title: "Recent Events"
     url: /recent-events/
-        
-  - title: "Projects"
-    url: /projects/
     
   - title: "CV"
     url: /cv/

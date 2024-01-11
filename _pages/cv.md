@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Arts at Macalester College (expected)
+  * Major Computer Science & Mathematics
+* Sun Prairie High School 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Macalester College Leonard Center
+  * Athletic Assistant
+  * Duties included: Front desk operations, Facility management, Game day operations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Reynolds Transfer & Storage
+  * Crew Lead, On Site Trainer
+    * Duties included: Managing crew members, Training in safety and efficiency, Communicatating with customers and office personel. 
+
+* WP Beverages
+  * Product Merchandiser
+    * Duties included: Managing inventory, Merchandising Planning, Quality Control of Pepsi products, Adaptability to retail envirionment.  
   
 Skills
 ======
