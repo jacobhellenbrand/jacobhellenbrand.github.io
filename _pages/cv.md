@@ -13,6 +13,7 @@ Education
 ======
 * Bachelor of Arts at Macalester College (expected)
   * Major Computer Science & Mathematics
+  * Cumulative GPA: 3.91
 * Sun Prairie High School 
 
 Work experience
@@ -38,7 +39,7 @@ Projects
 Languages and Technologies
 ======
 * C, Java, Python, JavaScript, Html, CSS
-* Visual Studio Code, Pycharm, Google Firebase
+* Visual Studio Code, PyCharm, Google Firebase
 
 <!-- Skills
 ======
@@ -66,7 +67,7 @@ Languages and Technologies
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
 Activities
 ======
 * Fellowship of Christian Athletes
