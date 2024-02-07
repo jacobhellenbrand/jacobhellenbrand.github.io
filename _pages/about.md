@@ -15,9 +15,7 @@ About me
 Hello! I'm Jacob, a student-athlete currently enrolled at Macalester College. My academic focus lies in the intersection of computer science and mathematics, two disciplines that continuously captivate my intellectual curiosity. Beyond the academic sphere, I find great fulfillment in the realm of sports, as I currently play for the Macalester football team. As I navigate the challenging yet rewarding landscape of academia and athletics, I am driven by a commitment to continuous growth and a genuine appreciation for the multifaceted experiences that life offers. Join me on this academic journey where intellectual pursuits, athletic endeavors, and meaningful relationships converge.
 
 
-![HomePageImage](images/500x300.png)
-
-<img src="images/famPhoto.png" alt="FamilyPhotoHomePage" style="width: 100%; border: 1px solid #ccc;">
+<img src="images/famPhoto.png" alt="FamilyPhotoHomePage" style="width: 100%; border: 1px solid #ccc; border-radius: 10px">
 
 
 <!--
