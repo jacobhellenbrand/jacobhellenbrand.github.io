@@ -17,6 +17,8 @@ Hello! I'm Jacob, a student-athlete currently enrolled at Macalester College. My
 
 ![HomePageImage](images/500x300.png)
 
+<img src="images/famPhoto.png" alt="FamilyPhotoHomePage" style="width: 100%; border: 1px solid #ccc;">
+
 
 <!--
 
