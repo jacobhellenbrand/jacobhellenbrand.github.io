@@ -29,33 +29,47 @@ Work experience
   * Product Merchandiser
   * Duties included: Managing inventory, Merchandising Planning, Quality Control of Pepsi products, Adaptability to retail envirionment.  
   
-Skills
+Projects
+======
+* Mac Community Trade Center. JavaScript, Html, CSS, Google Firebase
+* Baloon Tower Defense Game. Java
+* Crossy Roads Dupe. Java
+
+Languages and Technologies
+======
+* C, Java, Python, JavaScript, Html, CSS
+* Visual Studio Code, Pycharm, Google Firebase
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+Activities
 ======
-* Currently signed in to 43 different slack teams
+* Fellowship of Christian Athletes
+* Macalester Football Team
+* Student Athlete Action Committie
+* Student Athlete Mentors 
+* Hamre Center Hiring Board 

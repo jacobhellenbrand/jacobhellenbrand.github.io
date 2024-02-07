@@ -33,4 +33,10 @@ Student Athlete Action Committee (SAAC)
 * Active Board Member
   * Strengthen student athlete impact on campus
   * Plan events for benefiting other student athletes and engaging community
+
+Hamre Center Hiring Board 
+======
+* Student Body Representative
+  * Play an active roll in the process of hiring a new Director of Counseling for the Hamre Center
+  * Attend interviews, Review resumes, Evaluate candidates, engage in student only discussions with interviewees
   
