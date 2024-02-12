@@ -7,8 +7,8 @@ redirect_from:
   - /cv
 ---
 
-{% include base_path %}
-[Download Resume](images/JacobHellenbrandResume.pdf){: .btn .btn-outline}
+<!-- {% include base_path %}
+[Download Resume](images/JacobHellenbrandResume.pdf){: .btn .btn-outline} -->
 
 Education
 ======
