@@ -1,0 +1,19 @@
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-brjg5j sitelibdir\=./.gem.20240212-46674-brjg5j clean
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-brjg5j sitelibdir\=./.gem.20240212-46674-brjg5j
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-brjg5j sitelibdir\=./.gem.20240212-46674-brjg5j install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240212-46674-brjg5j/racc
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-brjg5j sitelibdir\=./.gem.20240212-46674-brjg5j clean

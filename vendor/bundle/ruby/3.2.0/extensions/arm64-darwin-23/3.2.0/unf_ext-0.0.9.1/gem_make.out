@@ -1,0 +1,20 @@
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-ohwwsa sitelibdir\=./.gem.20240212-46674-ohwwsa clean
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-ohwwsa sitelibdir\=./.gem.20240212-46674-ohwwsa
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.3.2'
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-ohwwsa sitelibdir\=./.gem.20240212-46674-ohwwsa install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20240212-46674-ohwwsa
+
+current directory: /Users/jacobhellenbrand/Documents/Comp128/jacob-hellenbrand.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240212-46674-ohwwsa sitelibdir\=./.gem.20240212-46674-ohwwsa clean
