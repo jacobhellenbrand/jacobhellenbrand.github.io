@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download Resume](images/JacobHellenbrandResume.pdf){: .btn .btn-outline}
 
 Education
 ======
