@@ -12,11 +12,11 @@ main:
   - title: "Activities"
     url: /activities/    
     
-  - title: "Recent Events"
-    url: /recent-events/
+  # - title: "Recent Events"
+  #   url: /recent-events/
     
   - title: "CV"
     url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
