@@ -38,5 +38,5 @@ Hamre Center Hiring Board
 ======
 * Student Body Representative
   * Play an active roll in the process of hiring a new Director of Counseling for the Hamre Center
-  * Attend interviews, Review resumes, Evaluate candidates, engage in student only discussions with interviewees
+  * Attend interviews, review resumes, evaluate candidates, engage in student only discussions with interviewees
   
