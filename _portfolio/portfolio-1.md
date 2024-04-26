@@ -20,7 +20,7 @@ Our Role
 
 Our team was connected to NMDP by a girl named Sonya. Sonya is the chapter president for NMDP at Macalester and she is also a SMA (Student Medical Assistant) that works with the football team. She reached out to our coach giving us the opportunity to be involved and help with this awesome program. 
 
-In the image above you can see the Macalester football team and myself all together with signs and fliers for information on NMDP. Between two days guys on the team volunteered 6 hours going around campus informing people about NMDP, and encouraging them to join the registry. We had an incredibly successful time doing this getting 146 students and professors to join. If reading this gives you inspiration I'll attach the link to NMDP's site [here](https://network.nmdp.org). On there is a bunch of information on them, aswell if you wanted to join the registry its super easy, just a swab of the inside of the cheek and mailing it in. 
+In the image above you can see the Macalester football team and myself all together with signs and fliers for information on NMDP. Between two days guys on the team volunteered 6 hours going around campus informing people about NMDP, and encouraging them to join the registry. We had an incredibly successful time doing this getting 146 students and professors to join. If reading this gives you inspiration I'll attach the link to NMDP's site [here](https://network.nmdp.org){:target="_blank"}. On there is a bunch of information on them, aswell if you wanted to join the registry its super easy, just a swab of the inside of the cheek and mailing it in. 
 
 Battle Born 90 minute Challenge
 ======
