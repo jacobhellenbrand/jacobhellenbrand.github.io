@@ -4,12 +4,38 @@ excerpt: "Over a week the Macalester football team and myself got the opportunit
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+National Marrow Donation Program
+======
 
+NMDP, formally known as be the match, is a program designed to help match people diagonesed with blood cancer to someone with matching stem cells to allow them to donate to them. Donations are typically done through stem cell or bone marrow donations. Sonya is our schools chapter president and is also a SMA (Student Medical Assistant) that works with the football team. She is the one that got our team involved and gave us the opportunity to be able to support. 
 
+The National Marrow Donation Program (NMDP), also known as Be The Match, plays a crucial role in connecting individuals diagnosed with blood cancer or other blood disorders with potential donors who have matching stem cells or bone marrow.
+
+The process of finding a matching donor can be complex due to the unique genetic makeup of each individual. However, the NMDP has developed an extensive database of potential donors, making it more likely for patients to find a match.
+
+When a match is found, the donor undergoes a procedure to donate either stem cells or bone marrow, depending on what is most suitable for the patient's needs. This donation can be a lifesaving opportunity for those battling blood cancer or other disorders, offering them a chance at recovery and a better quality of life.
 
 <img src="/images/nmdp1.jpg" alt="Alt text" title="Team NMDP image" />
 
+Our Role
+======
+
+Our team was connected to NMDP by a girl named Sonya. Sonya is the chapter president for NMDP at Macalester and she is also a SMA (Student Medical Assistant) that works with the football team. She reached out to our coach giving us the opportunity to be involved and help with this awesome program. 
+
+In the image above you can see the Macalester football team and myself all together with signs and fliers for information on NMDP. Between two days guys on the team volunteered 6 hours going around campus informing people about NMDP, and encouraging them to join the registry. We had an incredibly successful time doing this getting 146 students and professors to join between the two days. If reading this gives you inspiration I'll attach the link to NMDP's cite [here](https://network.nmdp.org). On there is a bunch of information on them, aswell if you wanted to join the registry its super easy, just a swab of the inside of the cheek and mailing it in. 
+
+Battle Born 90 minute Challenge
+======
+
+This was an idea from our head coach as a fundraiser for NMDP. As a team we wanted to give back to the community some way and what better way than to have a 5k on campus. The event was super fun and it was a little different than your traditional 5k. The goal was to try and make it something that was acheivable by everyone, so our tweak was that we had 1 loop that was 1.03 miles and people left from the start every 30 minutes. This made it so there was a larger focus on everyone completing it together and appear more attainable by having it be broken into chunks. 
+
 <img src="/images/nmdp2.jpg" alt="Alt text" title="Me and Sonya" />
+
+Here is a picture of Sonya and I with a few of her friends. The beanie over hood combo was necessary because I wasn't participating in the 5k, my role was to direct traffic so everyone stayed on the correct route. As well the event was 6:15-7:45 am so it wasn't super warm either!
+
+Why was it Battle Born?
+======
+
+Below is a picture of some of my teammates walking with a 265lbs tire on their shoulders. This was our coaches idea of making it "Battle Born". The guys did great though, while rotating shifts, they held the tire in the air for the full 5k distance and probably 75 minutes of total time. 
 
 <img src="/images/nmdp3.jpg" alt="Alt text" title="Guys Carrying a Tire" />
