@@ -1,7 +1,7 @@
 ---
 title: "NMDP + Battle Born 90 Minute Challenge"
 excerpt: "Over a week the Macalester football team and myself got the opportunity to volunteer with NMDP <br/><img src='/images/nmdp1.jpg'>"
-collection: portfolio
+collection: Recent Events
 ---
 
 National Marrow Donation Program
