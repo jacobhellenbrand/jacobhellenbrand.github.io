@@ -55,6 +55,8 @@ Welcome to my personal website! Here, you can explore my projects, read my blog,
 ## Installation Instructions
 To run this website locally, clone this repository to your local machine and open the repository in your web browser.
 
+As well you can google jacobhellenbrand.github.io and access it on any device. 
+
 ## Usage
 - Visit the homepage to get an overview of who I am.
 - Navigate to the projects section to view my projects.
