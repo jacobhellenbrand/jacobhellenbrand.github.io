@@ -39,7 +39,7 @@ Projects
 
 Languages and Technologies
 ======
-* C, Java, Python, JavaScript, Html, CSS
+* C, Java, Python, JavaScript, Html, CSS, SQL
 * Visual Studio Code, PyCharm, Google Firebase
 
 <!-- Skills
