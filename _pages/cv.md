@@ -17,19 +17,25 @@ Education
   * Cumulative GPA: 3.91
 * Sun Prairie High School 
 
-Work experience
-======
-* Macalester College Leonard Center
-  * Athletic Assistant
-  * Duties included: Front desk operations, Facility management, Game day operations
+# Work Experience
 
-* Reynolds Transfer & Storage
-  * Crew Lead, On Site Trainer
-  * Duties included: Managing crew members, Training in safety and efficiency, Communicatating with customers and office personel. 
+### Macalester College Leonard Center | **Athletic Assistant**  
+*January 2023 – Present*  
+- Front desk operations  
+- Facility management  
+- Game day operations
 
-* WP Beverages
-  * Product Merchandiser
-  * Duties included: Managing inventory, Merchandising Planning, Quality Control of Pepsi products, Adaptability to retail envirionment.  
+### Reynolds Transfer & Storage | **Crew Lead, On-Site Trainer**  
+*June 2021 – July 2023*  
+- Managed crew members and job site tasks  
+- Conducted training in safety and efficiency  
+- Communicated with customers and office personnel
+
+### WP Beverages | **Product Merchandiser**  
+*June 2020 – August 2021*  
+- Managed inventory and merchandising plans  
+- Ensured quality control of Pepsi products  
+- Adapted to changing retail environments  
   
 Projects
 ======
