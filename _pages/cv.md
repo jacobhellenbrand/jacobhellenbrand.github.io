@@ -60,7 +60,7 @@ Projects
 * NFL In-Game Network Analysis. Python, RStudio, Gephi
 * Evolving Alife Agents. Python, RStudio
 * Mac Community Trade Center. JavaScript, Html, CSS, Google Firebase
-* Baloon Tower Defense Game. Java
+* Balloon Tower Defense Game. Java
 * Crossy Roads Dupe. Java
 
 Languages,Technologies and Tools
