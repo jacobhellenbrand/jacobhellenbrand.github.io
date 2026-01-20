@@ -1,0 +1,23 @@
+<article class="project-card">
+  {% if include.project.image %}
+  <img src="{{ include.project.image | relative_url }}" alt="{{ include.project.title }}" class="card-image">
+  {% endif %}
+
+  <div class="card-body">
+    <h3 class="card-title">
+      <a href="{{ include.project.url | relative_url }}">{{ include.project.title }}</a>
+    </h3>
+
+    {% if include.project.excerpt %}
+    <p class="card-description">{{ include.project.excerpt | strip_html | truncate: 150 }}</p>
+    {% endif %}
+
+    {% if include.project.tags %}
+    <div class="card-meta">
+      {% for tag in include.project.tags %}
+      <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</article>

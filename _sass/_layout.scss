@@ -1,0 +1,204 @@
+// Layout - CSS Grid based
+
+.site-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  width: 100%;
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 $spacing-4;
+
+  @media (min-width: $breakpoint-md) {
+    padding: 0 $spacing-8;
+  }
+}
+
+.content-wrapper {
+  max-width: $content-width;
+  margin: 0 auto;
+}
+
+main {
+  flex: 1;
+  padding: $spacing-8 0;
+
+  @media (min-width: $breakpoint-md) {
+    padding: $spacing-12 0;
+  }
+}
+
+// Header
+.site-header {
+  background-color: $color-primary;
+  padding: $spacing-4 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: $shadow-md;
+}
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  color: $color-bg;
+  font-size: $font-size-xl;
+  font-weight: $font-weight-bold;
+
+  &:hover {
+    color: $color-accent-light;
+  }
+}
+
+.nav-toggle {
+  display: block;
+  background: none;
+  border: none;
+  color: $color-bg;
+  font-size: $font-size-2xl;
+  cursor: pointer;
+  padding: $spacing-2;
+
+  @media (min-width: $breakpoint-md) {
+    display: none;
+  }
+}
+
+.site-nav {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: $color-primary;
+  padding: $spacing-4;
+
+  &.active {
+    display: block;
+  }
+
+  @media (min-width: $breakpoint-md) {
+    display: flex;
+    position: static;
+    padding: 0;
+    gap: $spacing-8;
+  }
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  @media (min-width: $breakpoint-md) {
+    display: flex;
+    gap: $spacing-6;
+  }
+}
+
+.nav-item {
+  margin: 0;
+}
+
+.nav-link {
+  display: block;
+  color: rgba(255, 255, 255, 0.85);
+  font-weight: $font-weight-medium;
+  padding: $spacing-2 0;
+  transition: color $transition-fast;
+
+  &:hover,
+  &.active {
+    color: $color-bg;
+  }
+
+  @media (min-width: $breakpoint-md) {
+    padding: $spacing-2 $spacing-3;
+  }
+}
+
+// Footer
+.site-footer {
+  background-color: $color-primary;
+  color: rgba(255, 255, 255, 0.7);
+  padding: $spacing-8 0;
+  margin-top: auto;
+}
+
+.footer-inner {
+  display: grid;
+  gap: $spacing-6;
+
+  @media (min-width: $breakpoint-md) {
+    grid-template-columns: 1fr auto;
+    align-items: center;
+  }
+}
+
+.footer-info p {
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: $spacing-2;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.footer-social {
+  display: flex;
+  gap: $spacing-4;
+}
+
+.social-link {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: $font-size-lg;
+  transition: color $transition-fast;
+
+  &:hover {
+    color: $color-bg;
+  }
+}
+
+// Section spacing
+.section {
+  margin-bottom: $spacing-12;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.section-title {
+  margin-bottom: $spacing-6;
+  padding-bottom: $spacing-3;
+  border-bottom: 2px solid $color-accent;
+}
+
+// Grid layouts
+.grid {
+  display: grid;
+  gap: $spacing-6;
+}
+
+.grid-2 {
+  @media (min-width: $breakpoint-md) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.grid-3 {
+  @media (min-width: $breakpoint-md) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $breakpoint-lg) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

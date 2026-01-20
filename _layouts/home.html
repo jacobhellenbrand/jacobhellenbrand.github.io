@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-inner">
+      <div class="hero-content">
+        <h1 class="hero-title">{{ site.author.name }}</h1>
+        <p class="hero-subtitle">System Design & Implementation Engineer</p>
+        <p class="hero-bio">{{ site.author.bio }}</p>
+
+        <div class="hero-links">
+          <a href="{{ '/projects/' | relative_url }}" class="btn btn-primary">View Projects</a>
+          <a href="{{ '/cv/' | relative_url }}" class="btn btn-outline">View CV</a>
+        </div>
+      </div>
+
+      <div class="hero-image">
+        <img src="{{ '/images/' | relative_url }}{{ site.author.avatar }}" alt="{{ site.author.name }}" class="avatar">
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <div class="content-wrapper">
+    {{ content }}
+  </div>
+</div>

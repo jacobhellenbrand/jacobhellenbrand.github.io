@@ -1,25 +1,12 @@
-# main links links
 main:
-  # - title: "Publications"
-  #   url: /publication/
-
-  - title: "Papers"
-    url: /talks/  
+  - title: "About"
+    url: /
 
   - title: "Projects"
     url: /projects/
 
-  - title: "Activities"
-    url: /activities/    
-    
-  - title: "Recent Events"
-    url: /recent-events/
-    
   - title: "CV"
     url: /cv/
-  
-  # - title: "Papers"
-  #   url: /papers/
 
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Activities"
+    url: /activities/

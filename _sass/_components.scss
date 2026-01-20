@@ -1,0 +1,384 @@
+// Components
+
+// Buttons
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: $spacing-2;
+  padding: $spacing-3 $spacing-6;
+  font-size: $font-size-base;
+  font-weight: $font-weight-medium;
+  border-radius: $radius-md;
+  border: none;
+  cursor: pointer;
+  transition: all $transition-fast;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: $color-accent;
+  color: $color-bg;
+
+  &:hover {
+    background-color: darken($color-accent, 8%);
+    color: $color-bg;
+  }
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: $color-accent;
+  border: 2px solid $color-accent;
+
+  &:hover {
+    background-color: $color-accent;
+    color: $color-bg;
+  }
+}
+
+.btn-sm {
+  padding: $spacing-2 $spacing-4;
+  font-size: $font-size-sm;
+}
+
+// Cards
+.card {
+  background-color: $color-bg;
+  border: 1px solid $color-border;
+  border-radius: $radius-lg;
+  overflow: hidden;
+  transition: all $transition-base;
+
+  &:hover {
+    box-shadow: $shadow-lg;
+    transform: translateY(-2px);
+  }
+}
+
+.card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background-color: $color-bg-alt;
+}
+
+.card-body {
+  padding: $spacing-5;
+}
+
+.card-title {
+  font-size: $font-size-lg;
+  margin-bottom: $spacing-2;
+
+  a {
+    color: $color-primary;
+
+    &:hover {
+      color: $color-accent;
+    }
+  }
+}
+
+.card-description {
+  font-size: $font-size-sm;
+  color: $color-text-light;
+  margin-bottom: $spacing-4;
+}
+
+.card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-2;
+}
+
+.tag {
+  display: inline-block;
+  padding: $spacing-1 $spacing-3;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  background-color: $color-bg-alt;
+  color: $color-text-light;
+  border-radius: $radius-full;
+}
+
+// Project cards
+.project-card {
+  @extend .card;
+}
+
+.project-card-content {
+  padding: $spacing-5;
+}
+
+.project-title {
+  font-size: $font-size-xl;
+  margin-bottom: $spacing-3;
+}
+
+.project-excerpt {
+  color: $color-text-light;
+  margin-bottom: $spacing-4;
+}
+
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-2;
+  margin-bottom: $spacing-4;
+}
+
+// Hero section
+.hero {
+  background-color: $color-bg-alt;
+  padding: $spacing-12 0;
+  margin-bottom: $spacing-12;
+
+  @media (min-width: $breakpoint-md) {
+    padding: $spacing-16 0;
+  }
+}
+
+.hero-inner {
+  display: grid;
+  gap: $spacing-8;
+  align-items: center;
+
+  @media (min-width: $breakpoint-md) {
+    grid-template-columns: 1fr 300px;
+  }
+}
+
+.hero-content {
+  order: 2;
+
+  @media (min-width: $breakpoint-md) {
+    order: 1;
+  }
+}
+
+.hero-title {
+  font-size: $font-size-3xl;
+  margin-bottom: $spacing-4;
+
+  @media (min-width: $breakpoint-md) {
+    font-size: $font-size-5xl;
+  }
+}
+
+.hero-subtitle {
+  font-size: $font-size-lg;
+  color: $color-accent;
+  font-weight: $font-weight-medium;
+  margin-bottom: $spacing-4;
+}
+
+.hero-bio {
+  font-size: $font-size-lg;
+  color: $color-text-light;
+  margin-bottom: $spacing-6;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-3;
+}
+
+.hero-image {
+  order: 1;
+  text-align: center;
+
+  @media (min-width: $breakpoint-md) {
+    order: 2;
+  }
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: $radius-full;
+  object-fit: cover;
+  border: 4px solid $color-accent;
+  margin: 0 auto;
+
+  @media (min-width: $breakpoint-md) {
+    width: 250px;
+    height: 250px;
+  }
+}
+
+// CV specific styles
+.cv-section {
+  margin-bottom: $spacing-10;
+}
+
+.cv-section-title {
+  font-size: $font-size-2xl;
+  color: $color-primary;
+  margin-bottom: $spacing-6;
+  padding-bottom: $spacing-3;
+  border-bottom: 3px solid $color-accent;
+}
+
+.cv-item {
+  margin-bottom: $spacing-6;
+  padding-bottom: $spacing-6;
+  border-bottom: 1px solid $color-border;
+
+  &:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+}
+
+.cv-item-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: $spacing-2;
+  margin-bottom: $spacing-2;
+}
+
+.cv-item-title {
+  font-size: $font-size-lg;
+  font-weight: $font-weight-semibold;
+  color: $color-text;
+  margin-bottom: 0;
+}
+
+.cv-item-company {
+  color: $color-accent;
+  font-weight: $font-weight-medium;
+}
+
+.cv-item-date {
+  font-size: $font-size-sm;
+  color: $color-text-light;
+}
+
+.cv-item-location {
+  font-size: $font-size-sm;
+  color: $color-text-light;
+  margin-bottom: $spacing-3;
+}
+
+.cv-item-description {
+  list-style: disc;
+  padding-left: $spacing-6;
+
+  li {
+    margin-bottom: $spacing-2;
+    color: $color-text-light;
+  }
+}
+
+.skills-grid {
+  display: grid;
+  gap: $spacing-4;
+
+  @media (min-width: $breakpoint-md) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.skill-category {
+  h4 {
+    color: $color-primary;
+    margin-bottom: $spacing-2;
+    font-size: $font-size-base;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+// Activities page
+.activity-section {
+  margin-bottom: $spacing-8;
+}
+
+.activity-title {
+  font-size: $font-size-xl;
+  color: $color-primary;
+  margin-bottom: $spacing-2;
+}
+
+.activity-role {
+  color: $color-accent;
+  font-weight: $font-weight-medium;
+  margin-bottom: $spacing-3;
+}
+
+// Page header
+.page-header {
+  margin-bottom: $spacing-8;
+  text-align: center;
+
+  @media (min-width: $breakpoint-md) {
+    margin-bottom: $spacing-12;
+  }
+}
+
+.page-title {
+  margin-bottom: $spacing-4;
+}
+
+.page-description {
+  font-size: $font-size-lg;
+  color: $color-text-light;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+// Project page
+.project-header {
+  margin-bottom: $spacing-8;
+}
+
+.project-page-title {
+  margin-bottom: $spacing-4;
+}
+
+.project-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-4;
+  color: $color-text-light;
+  font-size: $font-size-sm;
+}
+
+.project-content {
+  img {
+    border-radius: $radius-md;
+    margin: $spacing-6 0;
+  }
+}
+
+// 404 page
+.error-page {
+  text-align: center;
+  padding: $spacing-16 0;
+}
+
+.error-code {
+  font-size: 8rem;
+  font-weight: $font-weight-bold;
+  color: $color-accent;
+  line-height: 1;
+  margin-bottom: $spacing-4;
+}
+
+.error-message {
+  font-size: $font-size-2xl;
+  margin-bottom: $spacing-6;
+}
+
+// Image in content
+.content-image {
+  border-radius: $radius-lg;
+  margin: $spacing-6 0;
+  box-shadow: $shadow-md;
+}
