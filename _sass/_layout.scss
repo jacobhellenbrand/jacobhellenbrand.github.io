@@ -151,6 +151,18 @@ main {
   }
 }
 
+.footer-name {
+  font-weight: $font-weight-bold;
+  font-size: $font-size-lg;
+  color: #ffffff;
+}
+
+.footer-copyright {
+  margin-top: $spacing-6;
+  font-size: $font-size-sm;
+  color: #ffffff;
+}
+
 .footer-social {
   display: flex;
   gap: $spacing-4;
